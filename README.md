@@ -1,2 +1,2 @@
 # titanic
-This repo have some tests and exercises using the titanic dataset from Kaggle.
+This repo have some tests and exercises inspired by Aurelien Geron's hands-on machine learning
