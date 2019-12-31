@@ -26,8 +26,7 @@ mpl.rc('ytick', labelsize=12)
 pwd()
 PROJECT_ROOT_DIR = "."
 CHAPTER_ID = "end_to_end_project"
-IMAGES_PATH = os.path.join(PROJECT_ROOT_DIR, 
-	"images", CHAPTER_ID)
+IMAGES_PATH = os.path.join(PROJECT_ROOT_DIR, "images", CHAPTER_ID)
 #os.makedirs creates a directory
 os.makedirs(IMAGES_PATH, exist_ok=True)
 
